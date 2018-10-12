@@ -33,7 +33,7 @@ $( function () {
             35, // fov
             window.innerWidth / window.innerHeight, // ratio
             .1, // near
-            20000 // far
+            0 // far - infinite
         );
         camera.position.set( 0, 0, -7000 );
         camera.lookAt( scene.position );
@@ -47,7 +47,7 @@ $( function () {
         }
 
         geometry = new THREE.BufferGeometry;
-        let pointsSize = 20;
+        let pointsSize = 10;
         material = new THREE.PointsMaterial( {
             vertexColors: THREE.VertexColors,
             size: pointsSize,
@@ -63,8 +63,8 @@ $( function () {
                     if ( xhr.status === 200 ) {
                         let data = JSON.parse( xhr.responseText );
 
-                        let spread = 200;
-                        let diffusion = 10;
+                        let spread = 100;
+                        let diffusion = 5;
                         let diffusionScale = new THREE.Vector3( 1, 1, 0 );
                         let positions = [];
                         let colors = [];
@@ -94,11 +94,7 @@ $( function () {
         window.requestAnimationFrame( draw );
         renderer.render( scene, camera );
 
-        let amount = 500;
-        let pos = points.geometry.attributes.position;
-        for ( let i = 0; i < pos.count / 2; i++ ) {
-            pos[ Math.random() * pos.count - 1 ] += Math.random() * amount - amount;
-        }
+        points.rotation.y = Date.now() * .0005;
     }
 
     /**
