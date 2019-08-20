@@ -8,5 +8,8 @@ router.get( '/', ( req, res, next ) => {
 router.get( '/conv', ( req, res, next ) => {
     res.render( 'converter' );
 } );
+router.get( '/shapefile', ( req, res ) => {
+    res.render( 'shapefile' );
+} );
 
 module.exports = router;

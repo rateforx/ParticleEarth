@@ -1,20 +1,15 @@
 extends layout
 
 block head
+    link(rel='stylesheet', href='/styles/style.css')
     script(src='/scripts/jquery-3.3.1.min.js')
     script(src='/scripts/three.js')
     script(src='/scripts/OrbitControls.js')
     script(src='/scripts/cannon.js')
-
-    link(rel='stylesheet', href='/styles/style.css')
+    script(src='/scripts/shapefile.js')
 
 block content
     title Particlearth
-
-    //-object(type='image/svg+xml', data='/earth.svg')
-    //-    p No svg support :(
-
-
     #viewport
 
     script(src='/scripts/particlearth.js')

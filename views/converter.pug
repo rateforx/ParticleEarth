@@ -1,24 +1,21 @@
 extends layout
 
 block head
-    script(src='/scripts/jquery-3.3.1.min.js')
     script(src='/scripts/converter.js')
     script(src='/scripts/FileSaver.js')
-    //script(src='/scripts/gpu.js')
-
-    //link(rel='stylesheet', href='/styles/style.css')
-
     style.
         body {
             background-color: #222;
             color: #ddd;
         }
+        #canvas {
+            display: none;
+        }
+
 
 block content
     title Particle Converter
 
-    //img#pic(src='/pics/earth-full.png')
-    img#pic(src='/pics/earth-full.png')
+    p Enjoy waiting
+    img#pic(src='/pics/earth-half.png')
     canvas#canvas No canvas support
-
-    script

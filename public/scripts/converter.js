@@ -53,5 +53,7 @@ $( () => {
         window.requestAnimationFrame( render );
     }
 
-    $( '#pic' )[ 0 ].onload = init;
+    // $( '#pic' )[ 0 ].onload = init;
+
+    window.init = init;
 } );
