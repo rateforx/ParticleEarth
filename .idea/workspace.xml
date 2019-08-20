@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68852eff-5e55-4f79-a16e-c7d4745ae2bc" name="Default" comment="dots dots dots" />
+    <list default="true" id="68852eff-5e55-4f79-a16e-c7d4745ae2bc" name="Default" comment="dots dots dots">
+      <change afterPath="$PROJECT_DIR$/public/scripts/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scripts/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.pug" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/scripts/particlearth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-173">
-              <caret line="199" column="20" lean-forward="true" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
+            <state relative-caret-position="161">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#1713#1752#0" />
               </folding>
@@ -44,19 +49,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.pug">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -117,7 +113,6 @@
         <option value="$PROJECT_DIR$/public/shaders/fragment.glsl" />
         <option value="$USER_HOME$/Desktop/Asteroid Game.html" />
         <option value="$PROJECT_DIR$/routes/index.js" />
-        <option value="$PROJECT_DIR$/views/layout.pug" />
         <option value="$PROJECT_DIR$/views/converter.pug" />
         <option value="$PROJECT_DIR$/views/shapefile.pug" />
         <option value="$PROJECT_DIR$/public/styles/style.css" />
@@ -125,6 +120,7 @@
         <option value="$PROJECT_DIR$/public/scripts/shapeloader.js" />
         <option value="$PROJECT_DIR$/views/index.pug" />
         <option value="$PROJECT_DIR$/public/scripts/particlearth.js" />
+        <option value="$PROJECT_DIR$/views/layout.pug" />
       </list>
     </option>
   </component>
@@ -145,77 +141,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
+              <item name="ParticleEarth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ParticleEarth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
+              <item name="ParticleEarth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ParticleEarth" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="pics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
+              <item name="ParticleEarth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ParticleEarth" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="shaders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="shp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Particlearth" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="Particlearth" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,15 +186,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Snippy\WebstormProjects\Particlearth\public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Snippy\WebstormProjects\ParticleEarth\public\scripts" />
       <recent name="C:\Users\Snippy\WebstormProjects\Particlearth\public\scripts" />
       <recent name="C:\Users\Snippy\WebstormProjects\Particlearth\public\shp" />
       <recent name="C:\Users\Snippy\WebstormProjects\Particlearth\public\" />
       <recent name="C:\Users\Snippy\WebstormProjects\Particlearth\public\pics" />
-      <recent name="C:\Users\Snippy\WebstormProjects\Particlearth\public\shaders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Snippy\WebstormProjects\Particlearth\public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,6 +257,7 @@
       <workItem from="1544566819207" duration="30000" />
       <workItem from="1564742124640" duration="4866000" />
       <workItem from="1566238721242" duration="1489000" />
+      <workItem from="1566294278618" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="dots dots dots">
       <created>1539362957127</created>
@@ -321,7 +270,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123381000" />
+    <option name="totallyTimeSpent" value="123788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -546,27 +495,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.pug">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        <state relative-caret-position="184">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scripts/cannon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/scripts/particlearth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="199" column="20" lean-forward="true" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#1713#1752#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/views/layout.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="161">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
         </state>
       </provider>
     </entry>
