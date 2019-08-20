@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68852eff-5e55-4f79-a16e-c7d4745ae2bc" name="Default" comment="dots dots dots">
-      <change afterPath="$PROJECT_DIR$/public/pics/earth-cropped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pics/earth-half.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pics/earth-half.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scripts/shapefile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/scripts/shapeloader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shaders/fragment.glsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shaders/shiveringPoints.glsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shaders/vertex.glsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shp/c1.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shp/c5.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shp/h1.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shp/h5.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shp/l1.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shp/l5.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shp/m1.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/shp/m5.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/shapefile.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pics/earth-full.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/pics/earth-full.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/points/earth.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/pics/earth-cropped.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/scripts/converter.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/scripts/converter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/scripts/particlearth.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/scripts/particlearth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/scripts/three.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/scripts/three.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/converter.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/converter.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.pug" afterDir="false" />
-    </list>
+    <list default="true" id="68852eff-5e55-4f79-a16e-c7d4745ae2bc" name="Default" comment="dots dots dots" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -59,14 +31,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/scripts/particlearth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="-173">
               <caret line="199" column="20" lean-forward="true" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
               <folding>
                 <element signature="e#1713#1752#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -245,7 +226,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="HTML&#10;JavaScript" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.1.0" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Muscular-Hydrostats" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -327,7 +308,7 @@
       <workItem from="1541331135909" duration="251000" />
       <workItem from="1544566819207" duration="30000" />
       <workItem from="1564742124640" duration="4866000" />
-      <workItem from="1566238721242" duration="702000" />
+      <workItem from="1566238721242" duration="1489000" />
     </task>
     <task id="LOCAL-00001" summary="dots dots dots">
       <created>1539362957127</created>
@@ -340,15 +321,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122594000" />
+    <option name="totallyTimeSpent" value="123381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49022803" visible="true" weight="0.072708115" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4896175" visible="true" weight="0.12118019" />
       <window_info id="Structure" order="1" sideWeight="0.508547" side_tool="true" weight="0.12848867" />
-      <window_info id="npm" order="2" sideWeight="0.509772" side_tool="true" weight="0.14805058" />
+      <window_info id="npm" order="2" sideWeight="0.51038253" side_tool="true" weight="0.072708115" />
       <window_info id="Favorites" order="3" sideWeight="0.50747865" side_tool="true" weight="0.12848867" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
@@ -399,13 +380,6 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.html" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/scripts/FileSaver.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="842">
@@ -581,11 +555,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/scripts/particlearth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
+        <state relative-caret-position="-173">
           <caret line="199" column="20" lean-forward="true" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
           <folding>
             <element signature="e#1713#1752#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
